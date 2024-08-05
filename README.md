@@ -1,3 +1,5 @@
+[<img src="https://github.com/user-attachments/assets/60e89805-26fd-4074-8ced-447fb148c7e6">](http://supersaas.dev?ref=github)
+
 # Modernized Chrome Extension Vite Starter
 
 > A [Vite](https://vitejs.dev/) Powered `Modernized Chrome Extension Manifest V3` ([Chrome](https://developer.chrome.com/docs/extensions/mv3/getstarted/)) Starter Template.
